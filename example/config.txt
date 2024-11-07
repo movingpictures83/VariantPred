@@ -1,0 +1,2 @@
+Prefix plugins/VariantPred/example/
+Plugin VariantPred inputfile VariantGraph.rds outputfile VariantPred.rds
